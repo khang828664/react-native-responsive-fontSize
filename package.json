@@ -29,7 +29,7 @@
     "url": "https://github.com/heyman333/react-native-responsive-fontsize/issues"
   },
   "dependencies": {
-    "react-native-iphone-x-helper": "^1.0.2"
+    "react-native-iphone-x-helper": "git+https://github.com/khang828664/react-native-iphone-x-helper.git"
   },
   "homepage": "https://github.com/heyman333/react-native-responsive-fontsize/blob/master/README.md",
   "devDependencies": {
